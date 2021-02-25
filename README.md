@@ -8,7 +8,7 @@
 
 ## <font color='darkred'>提醒</font>
 
-**2021-02-24** [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md) 
+**2021-02-24** [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md) 完成
 
 **2021-01-16** [数据库写入入门](practice/数据库写入入门.md) 
 
