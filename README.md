@@ -8,6 +8,8 @@
 
 ## <font color='darkred'>提醒</font>
 
+**2021-02-24** [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md) 
+
 **2021-01-16** [数据库写入入门](practice/数据库写入入门.md) 
 
 **2021-01-16** [小花选股策略](practice/小花选股策略.md)
@@ -51,6 +53,8 @@
 [批量替换文本](pythonproject/批量替换文本.md) | [魔术方法（str和repr）](pythonproject/魔术方法（__str__和__repr__）.md) | 
 
 [wtfpython](pythonproject/wtfpython.md) | [cookbook-Ch1.数据结构和算法](cookbook/ch1.md) |
+
+[rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md)  |
 
 
 
