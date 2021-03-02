@@ -43,6 +43,8 @@
         - [啾啾_截面数据的分析](kehu/jiujiu/截面数据的分析.md)
         - [宅羊](kehu/宅羊.md)
         - [银行数据整理记录](practice/银行数据整理记录.md)
+        - [DCC model 和 bekk model](practice/分析报告2.md)
+        - [经济周期划分](practice/经济周期划分.md)
 
 
 

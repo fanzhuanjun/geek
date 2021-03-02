@@ -8,6 +8,8 @@
 
 ## <font color='darkred'>提醒</font>
 
+**2021-03-02** [DCC model 和 bekk model](practice/分析报告2.md)
+
 **2021-02-24** [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md) 完成
 
 **2021-01-16** [数据库写入入门](practice/数据库写入入门.md) 
@@ -68,7 +70,9 @@
 
 [採用試験問題](practice/採用試験問題_v031.md) | [啾啾_单个顾客的分析](kehu/jiujiu/单个顾客的分析.md) | [啾啾_截面数据的分析](kehu/jiujiu/截面数据的分析.md) | [宅羊](kehu/宅羊.md)
 
-[银行数据整理记录](practice/银行数据整理记录.md)
+[银行数据整理记录](practice/银行数据整理记录.md) | [DCC model 和 bekk model](practice/分析报告2.md)
+
+[经济周期划分](practice/经济周期划分.md)
 
 
 
