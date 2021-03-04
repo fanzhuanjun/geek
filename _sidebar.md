@@ -25,9 +25,13 @@
         - [魔术方法（\_\_str\_\_和\_\_repr\_\_）](pythonproject/魔术方法（__str__和__repr__）.md)
         - [wtfpython](pythonproject/wtfpython.md)
         - [cookbook-Ch1.数据结构和算法](cookbook/ch1.md)
+    - [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md)
+        - [适度指标计算](practice/适度指标计算.md)
     
+        
+        
     - 数据清洗
-
+    
         - [改变时间频率输出](pythonproject/改变时间频率输出.md)
         - [链家网数据预处理和清洗](pythonproject/链家网数据预处理和清洗.md)
         -  [isinstance函数](pythonproject/isinstance函数.md)

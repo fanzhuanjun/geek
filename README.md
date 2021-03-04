@@ -8,6 +8,8 @@
 
 ## <font color='darkred'>提醒</font>
 
+**2021-03-04** [适度指标计算](practice/适度指标计算.md)
+
 **2021-03-02** [DCC model 和 bekk model](practice/分析报告2.md)
 
 **2021-02-24** [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md) 完成
@@ -56,7 +58,7 @@
 
 [wtfpython](pythonproject/wtfpython.md) | [cookbook-Ch1.数据结构和算法](cookbook/ch1.md) |
 
-[rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md)  |
+[rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md)  | [适度指标计算](practice/适度指标计算.md)
 
 
 
