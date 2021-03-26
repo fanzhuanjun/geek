@@ -31,3 +31,34 @@ for ass in zimu:
 
 
 
+## 固定效应模型
+
+```
+from linearmodels.panel import PanelOLS
+from linearmodels.datasets import wage_panel
+import statsmodels.api as sm
+
+def fix_effect_model(X, y):
+    exog = sm.add_constant(X)
+    mod = PanelOLS(y, exog, entity_effects=True)
+    res = mod.fit(cov_type='unadjusted')
+    return res
+```
+
+```
+y = df['公司绩效4']
+X = df[['xx1', '赫芬达尔指数', '成立时间长度', '资产规模']]
+fix_effect_model(X, y)
+```
+
+
+
+## WINSORIZE缩尾
+
+```python
+from scipy.stats.mstats import winsorize
+df4[col] = winsorize(df4[col], limits=[0.01,0.01])
+```
+
+
+

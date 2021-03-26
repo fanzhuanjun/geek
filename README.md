@@ -8,6 +8,8 @@
 
 ## <font color='darkred'>提醒</font>
 
+**2021-03-26** [事件研究法正式](practice/事件研究法正式.md)
+
 **2021-03-17** [月频因子计算](practice/五个因子计算.md)
 
 **2021-03-04** [适度指标计算](practice/适度指标计算.md)
@@ -76,7 +78,7 @@
 
 [银行数据整理记录](practice/银行数据整理记录.md) | [DCC model 和 bekk model](practice/分析报告2.md)
 
-[经济周期划分](practice/经济周期划分.md) | [月频因子计算](practice/五个因子计算.md)
+[经济周期划分](practice/经济周期划分.md) | [月频因子计算](practice/五个因子计算.md) | [事件研究法正式](practice/事件研究法正式.md)
 
 
 
