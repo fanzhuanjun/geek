@@ -22,21 +22,11 @@
 
 **2021-02-24** [rpy2 的简单使用方法.md](practice/rpy2的简单使用方法.md) 完成
 
-**2021-01-16** [数据库写入入门](practice/数据库写入入门.md) 
-
-**2021-01-16** [小花选股策略](practice/小花选股策略.md)
-
-**2020-08-03** [上海餐厅数据分析02](practice/上海餐厅数据分析02.md)
-
-**2020-07-23** [上海餐厅数据分析](practice/上海餐厅数据分析.md)
-
-**2020-07-06** [Kaggle房价预处理](practice/comprehensive-data-exploration-with-python.md)完成
-
-**2020-06-25**[《特征工程入门与实践》](FeatureEngineering/featureCh3.md)完成
-
-**2020-06-20** [北京不動産データ分析](pythonproject/peking.md)完成
 
 
+## 数据集下载
+
+[数据集](dataset.md)
 
 
 
