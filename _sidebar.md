@@ -73,3 +73,12 @@
   - [小花选股策略](practice/小花选股策略.md)
   - [三因子模型选股实证分析](practice/三因子模型.md)
 
+
+
+- 5.R语言量化
+
+  - [Ch9 单变量GARCH模型](quantinr/Ch9单变量GARCH模型.md)
+  - [Ch10 向量自回归和误差修正模型](quantinr/Ch10向量自回归和误差修正模型.md)
+  - [Ch11 多变量GARCH模型](quantinr/Ch11多变量GARCH模型.md)
+  - [Ch12 多变量的投资组合运用](quantinr/Ch12多变量的投资组合运用.md)
+  - [VECM模型实证](quantinr/VECM模型实证.md)
