@@ -110,4 +110,6 @@
 
 [Ch12 多变量的投资组合运用](quantinr/Ch12多变量的投资组合运用.md)
 
+[Ch13 门限和平滑转移](quantinr/Ch13门限和平滑转移.md)
+
 [VECM模型实证](quantinr/VECM模型实证.md)
