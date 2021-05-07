@@ -4,7 +4,8 @@
 
 - 用 python 实现事件研究法
 
-链接：https://pan.baidu.com/s/1Dc0jj-yFcC6Rc_-DZGvTaQ 
+链接：链接：https://pan.baidu.com/s/1ksYQ2JiZriOxa2Ov97M4HA 
+
 
 - 事件研究法进阶
 
