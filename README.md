@@ -74,7 +74,7 @@
 
 [经济周期划分](practice/经济周期划分.md) | [月频因子计算](practice/五个因子计算.md) | [事件研究法正式](practice/事件研究法正式.md)
 
-[事件研究法进阶版](practice/事件研究法进阶版.md)
+[事件研究法进阶版](practice/事件研究法进阶版.md) | [港股通did政策评估](practice/港股通did政策评估.md)
 
 
 
@@ -113,3 +113,4 @@
 [Ch13 门限和平滑转移](quantinr/Ch13门限和平滑转移.md)
 
 [VECM模型实证](quantinr/VECM模型实证.md)
+
