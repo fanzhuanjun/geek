@@ -13,3 +13,4 @@
 - [07-apply](pandasforeveryone/07-apply.md)
 - [08-groupby](pandasforeveryone/08-groupby.md)
 - [09-models](pandasforeveryone/09-models.md)
+
