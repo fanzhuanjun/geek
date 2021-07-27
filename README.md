@@ -100,6 +100,12 @@
 
 [因子模型实证](因子模型实证/README)
 
+[pyfolio练习](practice/pyfolio练习.md) | [基本面模型](practice/基本面模型.md) |[降准分析](practice/降准分析.md) | [因子计算方法](practice/因子计算方法.md) | [因子溢价](practice/因子溢价.md)
+
+
+
+
+
 
 
 ## 5. R语言量化
