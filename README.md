@@ -90,6 +90,8 @@
 
 [《効果検証入門》](cibook-python-master/README)
 
+[《机器学习实战 Aurelien Geron（第二版）》](机器学习实战/README)
+
 
 
 ## 4. 量化版块
