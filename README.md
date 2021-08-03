@@ -8,7 +8,9 @@
 
 ## <font color='darkred'>提醒</font>
 
-**2021-07-27** [MySQL语句套用](practice/MySQL语句套用.md)
+**2021-08-03** [东方财富股吧评论爬虫](practice/东方财富股吧评论爬虫.md)
+
+**2021-08-03** [MySQL语句套用](practice/MySQL语句套用.md)
 
 **2021-07-27** [因子模型实证](因子模型实证/README)
 
@@ -80,7 +82,9 @@
 
 [事件研究法进阶版](practice/事件研究法进阶版.md) | [港股通did政策评估](practice/港股通did政策评估.md) | [量化交易员笔试](practice/量化交易员笔试.md)
 
-[MySQL语句套用](practice/MySQL语句套用.md)
+[MySQL语句套用](practice/MySQL语句套用.md) | [东方财富股吧评论爬虫](practice/东方财富股吧评论爬虫.md)
+
+
 
 
 
