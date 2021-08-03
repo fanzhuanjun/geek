@@ -8,6 +8,8 @@
 
 ## <font color='darkred'>提醒</font>
 
+**2021-07-27** [MySQL语句套用](practice/MySQL语句套用.md)
+
 **2021-07-27** [因子模型实证](因子模型实证/README)
 
 **2021-06-21** [量化交易员笔试](practice/量化交易员笔试.md)
@@ -77,6 +79,8 @@
 [经济周期划分](practice/经济周期划分.md) | [月频因子计算](practice/五个因子计算.md) | [事件研究法正式](practice/事件研究法正式.md)
 
 [事件研究法进阶版](practice/事件研究法进阶版.md) | [港股通did政策评估](practice/港股通did政策评估.md) | [量化交易员笔试](practice/量化交易员笔试.md)
+
+[MySQL语句套用](practice/MySQL语句套用.md)
 
 
 
