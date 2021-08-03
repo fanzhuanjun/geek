@@ -1,6 +1,6 @@
 # FAMA因子模型实证
 
-> 项目要求：[word文档](因子模型实证/要求.docx)
+> 项目要求：[word文档](http://myeconomics.cn/geek/因子模型实证/要求.docx)
 
 
 
