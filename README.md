@@ -108,9 +108,7 @@
 
 [获取多期财务数据](quant策略/获取多期财务数据.md) | [数据库写入入门](practice/数据库写入入门.md) | [小花选股策略](practice/小花选股策略.md) | [三因子模型选股实证分析](practice/三因子模型.md)
 
-[因子模型实证](因子模型实证/README)
-
-[pyfolio练习](practice/pyfolio练习.md) | [基本面模型](practice/基本面模型.md) |[降准分析](practice/降准分析.md) | [因子计算方法](practice/因子计算方法.md) | [因子溢价](practice/因子溢价.md)
+[因子模型实证](因子模型实证/README) | [pyfolio练习](practice/pyfolio练习.md) | [基本面模型](practice/基本面模型.md) |[降准分析](practice/降准分析.md) | [因子计算方法](practice/因子计算方法.md) | [因子溢价](practice/因子溢价.md)
 
 
 

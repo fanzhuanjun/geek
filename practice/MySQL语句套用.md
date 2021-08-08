@@ -71,7 +71,22 @@ sql.insert(table, data)
 ```
 
     (1062, "Duplicate entry '20120005' for key 'students.PRIMARY'")
-    
+
+# 创建数据库的方法
+
+```python
+import pymysql  
+
+db = pymysql.connect(host='localhost',user='root', password='123456', port=3306)  
+cursor = db.cursor()  
+cursor.execute('SELECT VERSION()')  
+data = cursor.fetchone()  
+print('Database version:', data)  
+cursor.execute("CREATE DATABASE stocks DEFAULT CHARACTER SET utf8")  
+db.close()
+```
+
+
 
 # 创建表格的方法
 
@@ -111,7 +126,7 @@ except:
     Row: ('20120001', 'Bob', 20, 94.3)
     Row: ('20120002', 'Bob', 20, 94.3)
     Row: ('20120005', 'Bob', 20, 94.3)
-    
+
 
 
 ```python
@@ -121,7 +136,7 @@ row = cursor.fetchone()
 ```
 
     Count: 3
-    
+
 
 # 获取数据函数
 
@@ -165,7 +180,7 @@ pd.DataFrame(cc)
     Row: ('20120001', 'Bob', 20, 94.3)
     Row: ('20120002', 'Bob', 20, 94.3)
     Row: ('20120005', 'Bob', 20, 94.3)
-    
+
 
 
 
@@ -179,7 +194,7 @@ pd.DataFrame(cc)
     .dataframe tbody tr th {
         vertical-align: top;
     }
-
+    
     .dataframe thead th {
         text-align: right;
     }
