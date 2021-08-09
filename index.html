@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css"/>
   <!-- gitalk -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css"> -->
 
 
 </head>
@@ -64,8 +64,15 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
   <!-- 分页导航插件 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- disqus -->
+  <script>
+    window.$docsify = {
+      disqus: 'shortname'
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
   <!-- gitalk -->
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
   <script>
     const gitalk = new Gitalk({
@@ -77,7 +84,7 @@
       // facebook-like distraction free mode
       distractionFreeMode: false
     })
-  </script>
+  </script> -->
   <!-- 百度统计 -->
   <script>
     var _hmt = _hmt || [];
