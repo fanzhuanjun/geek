@@ -22,7 +22,7 @@
 - 杂项目
   - [做过的旧文件](practice/mytest.md)
   - [批量替换文本](pythonproject/批量替换文本.md)
-      
+    
   - [魔术方法（\_\_str\_\_和\_\_repr\_\_）](pythonproject/魔术方法（__str__和__repr__）.md)
   
   - [wtfpython](pythonproject/wtfpython.md)
@@ -61,6 +61,9 @@
     - [量化交易员笔试](practice/量化交易员笔试.md)
     - [MySQL语句套用](practice/MySQL语句套用.md) 
     - [东方财富股吧评论爬虫](practice/东方财富股吧评论爬虫.md)
+    - [疫情数据](practice//疫情数据.md)
+
+
 
 
 
