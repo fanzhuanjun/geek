@@ -61,7 +61,7 @@
     - [量化交易员笔试](practice/量化交易员笔试.md)
     - [MySQL语句套用](practice/MySQL语句套用.md) 
     - [东方财富股吧评论爬虫](practice/东方财富股吧评论爬虫.md)
-    - [疫情数据](practice//疫情数据.md)
+    - [疫情数据](practice/疫情数据.md)
 
 
 
