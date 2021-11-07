@@ -8,6 +8,8 @@
 
 ## <font color='darkred'>提醒</font>
 
+**2021-11-07** [因子构建标准流程_中证500](practice/因子构建标准流程_中证500.md)
+
 **2021-08-03** [东方财富股吧评论爬虫](practice/东方财富股吧评论爬虫.md)
 
 **2021-08-03** [MySQL语句套用](practice/MySQL语句套用.md)
@@ -112,7 +114,7 @@
 
 [因子模型实证](因子模型实证/README) | [pyfolio练习](practice/pyfolio练习.md) | [基本面模型](practice/基本面模型.md) |[降准分析](practice/降准分析.md) | [因子计算方法](practice/因子计算方法.md) | [因子溢价](practice/因子溢价.md)
 
-
+[因子构建标准流程_中证500](practice/因子构建标准流程_中证500.md)
 
 
 
